@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>AkuForm</id>
+        <version>1.0.0</version>
+        <authors>asakura89</authors>
+        <owners>asakura89</owners>
+        <projectUrl>https://github.com/asakura89/AkuForm</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>AkuForm</title>
+        <description>Simple windows form ui.</description>
+        <copyright>Copyright 2016</copyright>
+        <tags>windows form winform ui</tags>
+    </metadata>
+    <files>
+        <file src="\build\net20\AkuForm.dll" target="lib\net20" />
+        <file src="\build\net20\AkuForm.pdb" target="lib\net20" />
+        <file src="\build\net35\AkuForm.dll" target="lib\net35" />
+        <file src="\build\net35\AkuForm.pdb" target="lib\net35" />
+        <file src="\build\net40\AkuForm.dll" target="lib\net40" />
+        <file src="\build\net40\AkuForm.pdb" target="lib\net40" />
+        <file src="\build\net45\AkuForm.dll" target="lib\net45" />
+        <file src="\build\net45\AkuForm.pdb" target="lib\net45" />
+    </files>
+</package>
